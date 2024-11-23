@@ -90,7 +90,8 @@ stock_market.cpp
 #### ./tests
 
 
-# NOTE: The compilation command may vary based on:
+# NOTE:
+## The compilation command may vary based on:
 -Compiler Version
 
 -System Configuration
