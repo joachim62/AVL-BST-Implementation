@@ -1,6 +1,6 @@
 
 # Intro:
-A comprehensive C++ implementation of AVL and Binary Search Trees with real-world applications, interactive visualization, and extensive testing suite.
+A comprehensive C++ implementation of AVL and Binary Search Trees with suitable applications, interactive visualization, and extensive testing suite.
 
 Data Structures: AVL/BST Implementation and Applications
 # Project Structure:
