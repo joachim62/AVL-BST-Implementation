@@ -4,7 +4,7 @@ A comprehensive C++ implementation of AVL and Binary Search Trees with real-worl
 
 Data Structures: AVL/BST Implementation and Applications
 # Project Structure:
-### project_root/
+project_root/
 
 
  
