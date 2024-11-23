@@ -91,7 +91,7 @@ stock_market.cpp
 
 
 # NOTE:
-## The compilation command may vary based on:
+### The compilation command may vary based on:
 -Compiler Version
 
 -System Configuration
