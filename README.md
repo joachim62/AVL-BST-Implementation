@@ -10,11 +10,13 @@ Data Structures: AVL/BST Implementation and Applications
 │   ├── AVL.h         # AVL Tree implementation (self-balancing BST)
 
 │   └── BST.h         # Binary Search Tree base implementation
+
 ├── examples/
 
 │   ├── Contacts.cpp      # Contact management using AVL
 
 │   └── stock_market.cpp  # Stock market tracker using AVL
+
 ├── tests/
 
 │   ├── test_basic.h      # Basic BST/AVL operations testing
