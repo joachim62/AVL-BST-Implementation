@@ -37,13 +37,15 @@ Balance factor visualization
 Operation: Result Feedback
 
 ### Getting Started
-Pre-requisites:
-# C++ Compiler ( Supporting C++ 17)
-# Windows OS ( For Visualization )
+
+# Pre-requisites:
+C++ Compiler ( Supporting C++ 17)
+Windows OS ( For Visualization )
 
 ## Compilation
 // Compile main program
 g++ main.cpp -o main
+
 ./main
 
 Usage: The interative program provides following options:
@@ -58,14 +60,17 @@ Usage: The interative program provides following options:
 ## Cases
 Contacts.cpp
 g++ cases/Contact.cpp -o contacts
+
 ./contacts
 
 stock_market.cpp
 g++ cases/stock_market.cpp -o stocks
+
 ./stocks
 
 ### Testing
 g++ tests/test_main.cpp -o tests
+
 ./tests
 
 
