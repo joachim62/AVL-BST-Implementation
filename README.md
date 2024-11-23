@@ -6,16 +6,25 @@ Data Structures: AVL/BST Implementation and Applications
 ### project_root/
  project_root/
 ├── include/
+
 │   ├── AVL.h         # AVL Tree implementation (self-balancing BST)
+
 │   └── BST.h         # Binary Search Tree base implementation
 ├── examples/
+
 │   ├── Contacts.cpp      # Contact management using AVL
+
 │   └── stock_market.cpp  # Stock market tracker using AVL
 ├── tests/
+
 │   ├── test_basic.h      # Basic BST/AVL operations testing
+
 │   ├── test_advanced.h   # Advanced tree operations testing
+
 │   ├── performance_tests.h # Performance comparison (BST vs AVL)
+
 │   └── test_main.cpp     # Test suite runner
+
 └── main.cpp          # Interactive AVL visualization program
 
 # Features:  
@@ -45,9 +54,9 @@ Windows OS ( For Visualization )
 
 ### Compilation
 // Compile main program
-g++ main.cpp -o main
+#### g++ main.cpp -o main
 
-./main
+#### ./main
 
 Usage: The interative program provides following options:
 1. Insert Value
@@ -60,19 +69,19 @@ Usage: The interative program provides following options:
 
 ### Cases
 Contacts.cpp
-g++ cases/Contact.cpp -o contacts
+#### g++ cases/Contact.cpp -o contacts
 
-./contacts
+#### ./contacts
 
 stock_market.cpp
-g++ cases/stock_market.cpp -o stocks
+#### g++ cases/stock_market.cpp -o stocks
 
-./stocks
+#### ./stocks
 
 ### Testing
-g++ tests/test_main.cpp -o tests
+#### g++ tests/test_main.cpp -o tests
 
-./tests
+#### ./tests
 
 
 NOTE: The compilation command may vary based on:
