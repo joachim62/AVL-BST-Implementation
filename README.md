@@ -14,7 +14,7 @@ project_root/
 
 │   └── BST.h                # Binary Search Tree base implementation
 
-├── examples/
+├── cases/
 
 │   ├── Contacts.cpp         # Contact management using AVL
 
