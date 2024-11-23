@@ -58,7 +58,7 @@ Usage: The interative program provides following options:
 6. Check Tree if empty
 7. Exit
 
-# Cases
+### Cases
 Contacts.cpp
 g++ cases/Contact.cpp -o contacts
 
@@ -69,7 +69,7 @@ g++ cases/stock_market.cpp -o stocks
 
 ./stocks
 
-# Testing
+### Testing
 g++ tests/test_main.cpp -o tests
 
 ./tests
@@ -77,13 +77,16 @@ g++ tests/test_main.cpp -o tests
 
 NOTE: The compilation command may vary based on:
 -Compiler Version
+
 -System Configuration
+
 -Preffered Output Name
+
 -C++ Standard Requirement
 
 For specific instance:
-# g++ -std=c++17 main.cpp -o main
-# ./main
+### g++ -std=c++17 main.cpp -o main
+### ./main
 
 Both command acheive the same result, freely modify the best suit for your working environment.
 
